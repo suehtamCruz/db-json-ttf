@@ -3,7 +3,8 @@
     {
       "product": "mouse",
       "creationDate": "Fri, 09 Dec 2022 11:49:44 GMT",
-      "price": 10
+      "price": 10,
+      "id": 1
     }
   ]
 }
